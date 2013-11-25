@@ -2,4 +2,4 @@ Here are some scripts to visualize, model and understand the data on passengers 
 
 The file parse_csv.py contains function to transform csv into np array of dictionaries with known attributes for each passanger. 
 
-![plot1.png]
+![Passanger Age to ticket fare paid spread](plot1.png)
